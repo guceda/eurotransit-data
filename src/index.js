@@ -8,6 +8,7 @@ const results = [];
 const typeFilter = 'PAS';
 const type0Filter = 'PAS_BRD_DEP';
 const countryFilter = 'EU';
+// const keys = Array.from({ length: (2020 - 2004) + 1}, (_, i) => 2004 + i)
 const keys = [ 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004];
 
 //  INITIALIZE WRITER ----------------------------------------------------------
